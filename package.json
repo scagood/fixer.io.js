@@ -1,14 +1,14 @@
 {
   "name": "node-fixer-io",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "A fixer.io interface",
-  "main": "./lib/index.js",
+  "main": "fixer.io.js",
   "scripts": {
     "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scagood/node-fixer-io"
+    "url": "https://github.com/scagood/fixer.io.js"
   },
   "keywords": [
     "fixer.io"
